@@ -28,3 +28,12 @@ address {
     font-size: 80%;
     margin: 0px auto;
 }
+
+body {
+    padding-top: 50px;
+    z-index: 0;
+}
+
+.navbar-dark {
+    background-color: #512DA8;
+}
